@@ -1,0 +1,10 @@
+.cardBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .img-size {
+    width: 5rem;
+    height: 6rem;
+  }
